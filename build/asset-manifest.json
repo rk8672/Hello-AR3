@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7df00afa.css",
+    "main.js": "/static/js/main.4e378be5.js",
+    "static/media/Channa-Ve.mp3": "/static/media/Channa-Ve.77af3749524236d4035c.mp3",
+    "static/media/Tu Hai To Mujhe.mp3": "/static/media/Tu Hai To Mujhe.addc31b726c90ff5877b.mp3",
+    "static/media/Chaleya.mp3": "/static/media/Chaleya.a6441102d3afffe415c7.mp3",
+    "static/media/power-off.png": "/static/media/power-off.f290e57ed915d79cc380.png",
+    "index.html": "/index.html",
+    "main.7df00afa.css.map": "/static/css/main.7df00afa.css.map",
+    "main.4e378be5.js.map": "/static/js/main.4e378be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df00afa.css",
+    "static/js/main.4e378be5.js"
+  ]
+}
